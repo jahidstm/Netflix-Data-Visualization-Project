@@ -51,8 +51,8 @@ Analysis of the top 10 countries that produce or host the most content on the pl
 
 ![Bar chart of top 10 countries](top10_countries.png)
 
-### 4. Content Rating
-Identification of the percentage of content rating.
+### 4. Netflix Content: Breakdown by Maturity Rating
+Analysis the percentage breakdown of all content in the Netflix library by its official maturity rating.
 
 ![Bar chart of top 10 genres](content_rating_pie_chart.png)
 
