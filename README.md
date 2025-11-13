@@ -39,22 +39,22 @@ This analysis yielded several key insights into the Netflix library:
 ### 1. Content Type (Movie vs. TV Show)
 The Netflix library is predominantly composed of Movies, which significantly outnumber TV Shows.
 
-![Pie chart of Movies vs TV Shows]([movie_vs_tvshow_pie_chart.png])
+![Pie chart of Movies vs TV Shows](movies_vs_tvshows.png)
 
 ### 2. Content Release Trend Over Time
 There has been a dramatic increase in content added to Netflix over the years, with a significant boom observed post-2016.
 
-![Line chart of content added over time]([content_over_time_line_chart.png])
+![Line chart of content added over time](movies_tvshows_comparison.png)
 
 ### 3. Content by Country (Top 10)
 Analysis of the top 10 countries that produce or host the most content on the platform. (e.g., United States, India, UK).
 
-![Bar chart of top 10 countries]([top_10_countries_bar_chart.png])
+![Bar chart of top 10 countries](top10_countries.png)
 
-### 4. Popular Genres (Top 10)
-Identification of the most common genres available on Netflix, such as Dramas, Comedies, and Documentaries.
+### 4. Content Rating
+Identification of the percentage of content rating.
 
-![Bar chart of top 10 genres]([top_10_genres_bar_chart.png])
+![Bar chart of top 10 genres](content_rating_pie_chart.png)
 
 ---
 
