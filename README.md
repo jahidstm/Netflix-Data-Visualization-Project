@@ -1,8 +1,10 @@
 # 🎬 Netflix Data Visualization Project
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3+-yellowgreen)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-orange)
+![Language](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Library](https://img.shields.io/badge/Library-Pandas-blueviolet)
+![Library](https://img.shields.io/badge/Library-Matplotlib-orange)
+![Data](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ## 📊 Project Overview
 Interactive visualizations exploring Netflix's content library, revealing trends in:
